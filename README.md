@@ -1,6 +1,6 @@
 # Entertainment Center
 
-Entertainment Center is a simple page coded with HTML, CSS, and Python, that catalgoues my favourite films. It uses server side code to store a list of movies, their poster art, and other details, while letting the user view trailers in a pop-up Youtube video. 
+Entertainment Center is a simple appication coded with HTML, CSS, and Python, catalouging my favourite films. It uses server side code to store a list of movies, their poster art, and other details, while letting the user view trailers in a pop-up Youtube video. 
 
 ## Instalation
 
